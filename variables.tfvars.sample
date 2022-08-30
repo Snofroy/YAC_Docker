@@ -1,0 +1,10 @@
+my_login = ""
+my_email = ""
+my_ssh_key = ""
+ya_cloud_id = ""
+ya_folder_id = ""
+ya_zone = "ru-central1-a"
+ya_account_key = ""
+ya_quantity_centos = ["centos1", "centos2"]
+ya_platform_id = ""
+ya_image_id_centos = ""
